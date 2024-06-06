@@ -1,0 +1,13 @@
+.{
+    .name = "agg",
+    .version = "2.6.0",
+    .dependencies = .{
+        .upstream = .{
+            .url = "https://github.com/ghaerr/agg-2.6/archive/c4f36b4432142f22c0bf82c6fbdb41567a236be2.tar.gz",
+            .hash = "1220ea638fae33daf35709fbf5e9b964375fb7eaeadb4384c1dc3ab273055902a76f",
+        },
+    },
+    .paths = .{
+        "",
+    },
+}
